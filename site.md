@@ -41,8 +41,10 @@ phone: "541-562-6286"
 # One line per entry, e.g. "Monday - Friday: 9AM to 5PM"
 
 hours:
-  - "Monday - Saturday: 1130AM to 8PM"
-  - "Sunday: 8AM to 7PM"
+  - "Monday - Wednesday: 1130AM to 8PM"
+  - "Thursday - Friday: 1130AM to 9PM"
+  - "Saturday: 8AM to 9PM"
+  - "Sunday: 8AM to 8PM"
 
 
 # ── Links ─────────────────────────────────────────────────────────────────────
