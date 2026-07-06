@@ -33,24 +33,24 @@ favicon:
 
 # ── Contact ───────────────────────────────────────────────────────────────────
 
-location: ""
-email: ""
-phone: ""
+location: "267 S Main St, Union, OR 97883"
+phone: "541-562-6286"
 
 
 # ── Hours ─────────────────────────────────────────────────────────────────────
 # One line per entry, e.g. "Monday - Friday: 9AM to 5PM"
 
 hours:
-  - ""
+  - "Monday - Saturday: 1130AM to 8PM"
+  - "Sunday: 8AM to 7PM"
 
 
 # ── Links ─────────────────────────────────────────────────────────────────────
 # Social media, review sites, etc.
 
 links:
-  - label: ""
-    url: ""
+  - label: "Facebook: LJ Brewskis"
+    url: "https://www.facebook.com/profile.php?id=100063707583500"
 
 
 # ── Menu ──────────────────────────────────────────────────────────────────────
