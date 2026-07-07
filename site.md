@@ -73,8 +73,8 @@ menu:
 # Remove this section entirely if not needed.
 
 services:
-  - ""
-
+  - "Neighborhood bar and grill serving breakfast, lunch and dinner."
+  - "BBQ and Catering Food trailer for events, etc."
 
 # ── Photos ────────────────────────────────────────────────────────────────────
 # Files should live in the img/ folder next to this site.md.
