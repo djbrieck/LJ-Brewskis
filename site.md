@@ -82,4 +82,4 @@ services:
 
 photos:
   - label: "Storefront"
-    url: "img/storefront.webp"
+    url: "img/storefront.jpeg"
