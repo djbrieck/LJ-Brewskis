@@ -60,6 +60,8 @@ links:
 # Remove this section entirely if not needed.
 
 menu:
+  - label: "Takeout Menu - visual catalog"
+    url: "docs/LJBrewskisMenuVisualCatalog/LJBrewskisMenu.html"
   - label: "Takeout Menu - plain text"
     url: "docs/LJBrewskisMenu.html"
   - label: "Takeout Menu - PDF"
