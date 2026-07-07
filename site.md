@@ -81,5 +81,5 @@ services:
 # Remove this section entirely if not needed.
 
 photos:
-  - label: ""
-    url: "img/"
+  - label: "Storefront"
+    url: "img/storefront.webp"
