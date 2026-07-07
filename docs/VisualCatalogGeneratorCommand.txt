@@ -1,0 +1,3 @@
+#the command used to generate the visual catalog using  https://github.com/djbrieck/visual-catalog-generator
+
+python3 odg_to_catalog.py LJBrewskisMenu.odg --title "LJ Brewskis (Un-official) - Takeout Menu - visual catalog" --css "../../css/style.css"
